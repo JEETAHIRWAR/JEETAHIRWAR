@@ -1,11 +1,11 @@
 <!--- https://github.com/JEETAHIRWAR/JEETAHIRWAR/assets/102626329/e2d7ec43-31a3-4584-949a-f8569ca3c04b -->
+![Screenshot 2024-03-05 223903](https://github.com/JEETAHIRWAR/JEETAHIRWAR/assets/102626329/a2d4bb5d-9f70-49ff-9987-760a631ff7a3)
 
 <h1 align="center">Hi 👋, I'm JEET AHIRWAR</h1>
 <h3 align="center" style="color:crimson;" >A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![Screenshot 2024-03-05 223903](https://github.com/JEETAHIRWAR/JEETAHIRWAR/assets/102626329/a2d4bb5d-9f70-49ff-9987-760a631ff7a3)
 
 
 
